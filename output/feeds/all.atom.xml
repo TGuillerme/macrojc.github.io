@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MacroJC</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-08-12T17:00:00+02:00</updated><entry><title>First entry</title><link href="/first-entry.html" rel="alternate"></link><updated>2014-08-12T17:00:00+02:00</updated><author><name>April Wright</name></author><id>tag:,2014-08-12:first-entry.html</id><summary type="html">&lt;h1&gt;Hi all!&lt;/h1&gt;
-&lt;p&gt;Welcome to the new #MacroJC blog.&lt;/p&gt;
-&lt;p&gt;We're an internaional journal club, meeting bi-weekly over Skype to dicsuss papers in phylogenetics, evolution and comparative methods.&lt;/p&gt;
-&lt;p&gt;Keep an eye here for wrap-ups and paper notifications&lt;/p&gt;</summary><category term="blogstuff"></category></entry></feed>
