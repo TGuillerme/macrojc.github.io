@@ -8,6 +8,7 @@ OK, here's how to contribute to the repository.
 Initial set up:
 
 Install [Pelican](https://github.com/getpelican). You can use "pip install pelican markdown" in Terminal.
+
 Download [Pelican Themes](https://github.com/getpelican/pelican-themes). You can use "git clone --recursive https://github.com/getpelican/pelican-themes ~/pelican-themes" in Terminal.
 
 Clone the repository to your machine. In the pelicanconf.py, there are some paths to themes that are 'April specific'. Edit these to reflect your paths.
